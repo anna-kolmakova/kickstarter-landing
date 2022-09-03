@@ -41,5 +41,7 @@
   "mateAcademy": {
     "projectType": "layout"
   },
-  "dependencies": {}
+  "dependencies": {
+    "flickity": "^3.0.0"
+  }
 }
